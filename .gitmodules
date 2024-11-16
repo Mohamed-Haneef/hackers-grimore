@@ -1,3 +1,6 @@
 [submodule "tool-box/subdomain_checker"]
 	path = tool-box/subdomain_checker
 	url = git@github.com:Mohamed-Haneef/subdomain-checker.git
+[submodule "projects/projects/nexalyzer"]
+	path = projects/projects/nexalyzer
+	url = https://github.com/Mohamed-Haneef/nexalyzer

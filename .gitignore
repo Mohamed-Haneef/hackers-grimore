@@ -1,0 +1,4 @@
+p_venv/
+venv/
+myenv/
+domain_checker/result/

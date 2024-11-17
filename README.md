@@ -13,7 +13,8 @@ Walkthroughs for various Capture The Flag (CTF) challenges and detailed solution
 
 | **Title**                | **Description**                                                |
 |--------------------------|----------------------------------------------------------------|
-| [Tryhackme - White Rose](https://github.com/Mohamed-Haneef/hackers-grimoire/tree/main/ctf/thm_white_rose)   | Challenge level Easy |
+| [Tryhackme - White Rose](https://github.com/Mohamed-Haneef/hackers-grimoire/blob/main/ctf/thm_white_rose/Walkthrough.md)   | Challenge level Easy |
+| [Hack The Box - Cap](https://github.com/Mohamed-Haneef/hackers-grimoire/blob/main/ctf/htb_cap/Walkthrough.md)   |  Challenge Level Easy |
 
 ---
 
@@ -36,6 +37,6 @@ Kits and libraries for solving CTF challenges and custom-made libraries for cybe
 ---
 
 
-## Ownership and Credits
+## Ownership and Credits | Contribution.
 The Hackers Grimoire repository and its content, including tools, utilities, and walkthroughs, are created and maintained by @[Mohamed Haneef](https://github.com/Mohamed-Haneef).
 For any queries, contributions, or feedback, feel free to contact me via [LinkedIn](https://www.linkedin.com/in/mohamed-haneef22) or open an issue in this repository.

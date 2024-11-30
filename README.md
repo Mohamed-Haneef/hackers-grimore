@@ -1,5 +1,5 @@
 
-# Hackers Grimoire
+# Ravens Grimoire
 
 ## Table of Contents
 1. [CTF](#ctf)
@@ -38,5 +38,5 @@ Kits and libraries for solving CTF challenges and custom-made libraries for cybe
 
 
 ## Ownership and Credits | Contribution.
-The Hackers Grimoire repository and its content, including tools, utilities, and walkthroughs, are created and maintained by @[Mohamed Haneef](https://github.com/Mohamed-Haneef).
+The Ravens Grimoire repository and its content, including tools, utilities, and walkthroughs, are created and maintained by @[Mohamed Haneef](https://github.com/Mohamed-Haneef).
 For any queries, contributions, or feedback, feel free to contact me via [LinkedIn](https://www.linkedin.com/in/mohamed-haneef22) or open an issue in this repository.
